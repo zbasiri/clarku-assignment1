@@ -1,4 +1,5 @@
 *.ipynb
+*.ipynb*
 *.txt
 *.log
 *.DS_Store
